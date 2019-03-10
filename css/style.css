@@ -2336,6 +2336,17 @@ img.svg{
 	border-width: 1px;  */
 }
 
+#crystal-pic {
+	object-fit: cover;
+	background-size: cover;
+}
+
+.white-background-pic {
+	border-style: solid;
+	border-width: 1px
+}
+
+
 /*---------------------------------------------------*/
 /*	15) ARLO MEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
