@@ -1,0 +1,24 @@
+{
+  "name": "project-portfolio",
+  "version": "1.0.0",
+  "description": "site with web development projects that I've created or contributed to",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkeane2018/Project-Portfolio.git"
+  },
+  "author": "Patrick Keane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkeane2018/Project-Portfolio/issues"
+  },
+  "homepage": "https://github.com/pkeane2018/Project-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
