@@ -2330,6 +2330,10 @@ img.svg{
 	position: left;
 }
 
+#qr-map-pic {
+	object-fit: cover;
+}
+
 #me2 {
 	/* position: top; */
 	/* object-fit: fill; */
@@ -2345,6 +2349,15 @@ img.svg{
 .white-background-pic {
 	border-style: solid;
 	border-width: 1px
+}
+
+.image-div {
+	width: 100%;
+}
+
+.phone-images {
+	width: 50%;
+	height: 30%;
 }
 
 
